@@ -1,0 +1,59 @@
+#row
+{
+    
+    background:green;
+    font-size: 28px;
+    color:white;
+
+}
+.row-1
+{
+    background:darkgreen;
+    
+}
+#bat
+{
+    font-size: 25px;
+    
+}
+.col-sm-3
+{
+    font-size:15px;
+    margin-top:12px;
+    
+}
+#camera
+{    
+    
+ 
+    margin: 0px;
+    font-size: 25px;
+}
+
+#dot ,
+#search
+{
+   font-size: 18px;
+}
+
+#person
+{
+    font-size: 55px;
+    padding-left: 40px;
+    margin-top:12px;
+}
+
+#chat
+{
+    padding-left: 150px;
+    font-size: 20px;
+    color:gray;
+
+}
+#chat-name
+{
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+
