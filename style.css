@@ -55,5 +55,10 @@
     font-size: 25px;
     padding-top: 10px;
 }
+.container
+{
+    max-width:100%;
+    min-width:100%;
+}
 
 
